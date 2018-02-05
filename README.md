@@ -1,2 +1,2 @@
 # webpay-sdk
-sdf oficial webpay tbk
+sdk oficial webpay tbk
